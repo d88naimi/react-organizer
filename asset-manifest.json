@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-organizer/static/css/main.050523cc.chunk.css",
+    "main.js": "/react-organizer/static/js/main.6ae4fc25.chunk.js",
+    "main.js.map": "/react-organizer/static/js/main.6ae4fc25.chunk.js.map",
+    "runtime-main.js": "/react-organizer/static/js/runtime-main.67e791b8.js",
+    "runtime-main.js.map": "/react-organizer/static/js/runtime-main.67e791b8.js.map",
+    "static/js/2.9d16fe04.chunk.js": "/react-organizer/static/js/2.9d16fe04.chunk.js",
+    "static/js/2.9d16fe04.chunk.js.map": "/react-organizer/static/js/2.9d16fe04.chunk.js.map",
+    "index.html": "/react-organizer/index.html",
+    "precache-manifest.bfe60874dbb25cf37e1d853106f7116a.js": "/react-organizer/precache-manifest.bfe60874dbb25cf37e1d853106f7116a.js",
+    "service-worker.js": "/react-organizer/service-worker.js",
+    "static/css/main.050523cc.chunk.css.map": "/react-organizer/static/css/main.050523cc.chunk.css.map",
+    "static/js/2.9d16fe04.chunk.js.LICENSE.txt": "/react-organizer/static/js/2.9d16fe04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67e791b8.js",
+    "static/js/2.9d16fe04.chunk.js",
+    "static/css/main.050523cc.chunk.css",
+    "static/js/main.6ae4fc25.chunk.js"
+  ]
+}
